@@ -4,6 +4,7 @@ import Hero from './HeroSection/Hero'
 import ShowCaseSection from './ProductShowcase/ShowCase'
 import Story from './Story/Story'
 import Review from './ReviewSection/Review'
+import News from './NewsSection/News'
 function App() {
 
   return (
@@ -14,6 +15,7 @@ function App() {
           <ShowCaseSection />
           <Story />
           <Review />
+          <News />
       </div>
     </>
   )
