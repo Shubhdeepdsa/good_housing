@@ -2,6 +2,7 @@ import './App.css'
 import Navbar from './Components/Navbar'
 import Hero from './HeroSection/Hero'
 import ShowCaseSection from './ProductShowcase/ShowCase'
+import Story from './Story/Story'
 function App() {
 
   return (
@@ -10,6 +11,7 @@ function App() {
           <Navbar  />
           <Hero />
           <ShowCaseSection />
+          <Story />
       </div>
     </>
   )

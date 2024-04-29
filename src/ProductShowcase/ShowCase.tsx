@@ -12,7 +12,6 @@ interface Product {
 }
 const ShowCaseSection = () => {
     const [productData , setProductData] = useState<Product[]>([]);
-    
     return (
         <>
             <div className="show_case_section_container p-28 flex flex-col">

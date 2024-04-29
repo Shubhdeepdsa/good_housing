@@ -2,6 +2,7 @@
 # Break Down
 
 ## Major Sections (Desktop)
+
    - Navbar
     - Logo
     - [Link #1]
@@ -32,6 +33,7 @@
     - Story Sub text 
     - Our Story [button]
     - Story Picture 
+-----Done----
    - Review 
     - Title 
     - Subtext
