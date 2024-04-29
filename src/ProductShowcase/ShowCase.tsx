@@ -14,7 +14,7 @@ const ShowCaseSection = () => {
     const [productData , setProductData] = useState<Product[]>([]);
     return (
         <>
-            <div className="show_case_section_container p-28 flex flex-col">
+            <div className="show_case_section_container p-28 flex flex-col font-gilroy-regular">
                 <div className="title_section flex flex-col flex-start space-y-6">
                     <p className="text-6xl text-[#1C4075] font-bold"> Take a look at our homes</p>
                     <div className="subtitle flex flex-row justify-between items-center">
