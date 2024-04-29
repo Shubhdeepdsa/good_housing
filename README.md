@@ -1,2 +1,71 @@
-# good_housing
-It_guy Dev test Q1
+# Break Down
+
+## Major Sections (Desktop)
+   - Navbar
+    - Logo
+    - [Link #1]
+    - [Link #2]
+      -[Some Sub section]
+    - [Link #3]
+    - Collaborate with us 
+    - Enquire Now
+   - Hero Section 
+    - Title text
+    - Sub text 
+    - Explore button
+    - Background Img
+   - Product Display 
+    - Take a look [title section]
+    - Subtext
+    - Explore All button
+    - Product Card  
+      - Card Image 
+      - Card Title 
+      - Card Subtitle 
+      - Card Footer
+        - [pill #1]
+        - [pill #2]
+        - [pill #3]
+   - Story Section
+    - Story Title
+    - Story Sub text 
+    - Our Story [button]
+    - Story Picture 
+   - Review 
+    - Title 
+    - Subtext
+    - Review Card
+      - Review Image 
+      - Review Quote 
+      - Play tenant's story button
+   - News 
+    - New Title 
+    - See All News Button 
+    - News Card 
+      - News Type 
+      - News Date 
+      - News Title 
+      - News Content 
+      - News Image 
+      - Read more [button]
+   - Contact us - 1
+    - Bg 
+    - Title 
+    - Subtext 
+    - Enquire Now [button]
+   - Conatct us - 2
+    - Title 
+    - Subtext
+    - Collaborate with us [button]
+   - Footer 
+
+## Major Sections (Mobile)
+   - Navbar
+   - Hero Section 
+   - Product Display 
+   - Story Section 
+   - Review 
+   - News 
+   - Contact us - 1
+   - Conatct us - 2
+   - Footer
