@@ -33,12 +33,12 @@ function Navbar() {
                     </div>
                 </div>
             </div>
-            <div className="nav_bar_right flex flex-row items-center">
+            <div className="nav_bar_right flex flex-row items-center space-x-4 mr-10">
                 <div className="collaborate">
                     <HousingButton type_of_button="hollow" button_content="Collaborate With Us" />
                 </div>
                 <div className="enquire">
-                <HousingButton type_of_button="solid " button_content="Enquire Now" />
+                    <HousingButton type_of_button="solid " button_content="Enquire Now" />
 
                 </div>
             </div>
