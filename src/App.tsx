@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar'
 import Hero from './HeroSection/Hero'
 import ShowCaseSection from './ProductShowcase/ShowCase'
 import Story from './Story/Story'
+import Review from './ReviewSection/Review'
 function App() {
 
   return (
@@ -12,6 +13,7 @@ function App() {
           <Hero />
           <ShowCaseSection />
           <Story />
+          <Review />
       </div>
     </>
   )
